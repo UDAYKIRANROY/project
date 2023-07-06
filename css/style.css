@@ -1,0 +1,31 @@
+.navbar {
+    background-color: rgb(168, 195, 119);
+}
+
+.navbar-brand>img {
+    width: 100px;
+}
+
+.container-fluid>img {
+    width: 100%;
+}
+
+.heading {
+    color: chocolate;
+}
+
+footer {
+    background-color: darkslateblue;
+}
+
+.footerp {
+    color: white;
+}
+
+.footerh {
+    color: white;
+} 
+.footerimg {
+    width: 50%; height: 40%;
+    margin-bottom: 8px;
+}
